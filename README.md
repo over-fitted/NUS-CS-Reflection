@@ -5,7 +5,9 @@ Includes tips that I found useful and my grades to support the accuracy of my ad
 ## Year 1
 # Introduction to CS in general
 - Algorithms, Panos Louridas
-  - has 0 math in it, uses pseudocode, requires 0 experience to read
+  - has 0 math in it, uses pseudocode, requires 0 experience to read, covers some basic algorithms till 2040
+- Computer Science Distilled, Wladston Ferreira Filho
+  - same as above, covers CS more generally with elements of databases, operating systems and programming language methodology thrown in
 
 # CS1101S, A+
 - Head-First JS
