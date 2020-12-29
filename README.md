@@ -1,5 +1,5 @@
 # NUS-CS-Freshman-AwesomeList
-Awesome list for NUS CS students to read ahead or supplement for specific mods
+Awesome list for NUS CS students to read ahead or supplement for specific mods.
 Includes tips that I found useful and my grades to support the accuracy of my advice
 
 ## Year 1
