@@ -3,6 +3,7 @@ Awesome list for NUS CS students to read ahead or supplement for specific mods.
 Includes tips that I found useful and my grades to support the accuracy of my advice
 
 ## Year 1
+## Semester 1
 # Introduction to CS in general
 - Algorithms, Panos Louridas
   - has 0 math in it, uses pseudocode, requires 0 experience to read, covers some basic algorithms till 2040
@@ -47,3 +48,46 @@ I kind of read ahead while doing a Coursera course on Machine Learning by Prof A
 
 # MA1521 B
 Honestly just get on your knees and pray as hard as possible. In case of Coronavirus online open-book tests, remember Wolfram Alpha is your best friend. Open book tests are ridiculously more difficult than closed book. For reference see AY20/21 sem 1 test papers (except midterms that was easy)
+
+## Sem 2
+Took 28 mcs at first with 2040s, 2030s, IS1103, ES2660, USP writing mod Tourism, German 1, career catalyst and USP seminar which is basically philosophy. Dropped german midway because Im pretty sure the W is inconsequential, finished career catalyst by recess week and workload was easy apart from USP writing which basically doomed any hope for free time.
+
+MAKE SURE YOU APPLY FOR INTERNSHIPS EARLY (ESPECIALLY IF YOU HAVE LINKEDIN CONTACTS) AND APPLY FOR CVWO/ORBITAL ON TIME WHERE RELEVANT. HIGHLY RECOMMEND ONLY TAKING INTERNSHIPS IF POSSIBLE - ORBITAL WILL SUCH TIME AWAY FROM INTERNING
+
+# CS2030s A
+- https://java-programming.mooc.fi/
+  - just grind through this first, don't think too hard about it just do it. It is ok to forget stuff because you can just google it later
+- Philosophy of Software Design by John Ousterhout
+  - Resource recommended online as a modern replacement to clean code
+  - teaches many fundamental techniques such as SOLID albeit under new names
+  - examples are somewhat tedious to follow so consider just skimming and re-referring each week
+  - particularly useful in first few weeks
+- Just google SOLID principles and watch youtube videos such as from Web Dev Simplified
+  - particularly helpful in the first few weeks while doing proper project-style labs
+I think this is one of those modules where the whole George Washington sharpen your axe before cutting the tree advice makes sense. For labs, it makes a big difference if you plan out most of the broad strokes of your project's implementation design, particularly if they are not provided for you. (for my year, the design of the box project is trivial to form from the specifications, but the first few weeks' customer simulation project benefitted a lot from a broad design ahead of time).
+
+To design a project you can consider noting down all the methods of each class including module name, arguments and return type. Then draw arrows to show where each function is expected to be called from. Be sure to emphasise dependency-inversion principle and single responsibility principle so that refactoring will not be a headache.
+
+Do all your recitations before attending so you dont have to spend too much time revisiting them, but consider watching the lectures at 4 times speed instead of attending and read the lecture notes on their website, especially if you read ahead such as with the mooc recommended above.
+
+For openbook exams consider printing out the entire textbook and all your code off github. Your tuition fees are way higher than the comparatively tiny printing fees, trust me it is worthwhile to do this.
+
+# CS2040s A-
+Big oof for me, spent too much time on my USP essays and ended up studying just a few days before midterms and one DAY before finals, plus a couple late assignments and latecoming to tutorials. Basically consider coming on time for tutorials and study for your exams. Definitely put in effort into your tutorials before coming to class, budget around 2 hours as the upper bound for assignments and consider googling the answers afterwards - having a reference helps when trying to understand the TA's answers afterwards. Definitely clarify all doubts early and often and bug your TAs about it as this mod is ridiculously important for interviews. 
+
+- Algorithm Design
+  - never finished it because I kept backtracking with a perfectionist mindset, when in reality all the hard stuff was at the beginning and the easier stuff behind (stable matching isn't even taught in 2040s)
+  - just skim it
+- classic computer science problems in java
+  - skim it but note down keywords and consider referencing back whenever you hear any terms in 2040s and 2030s such as streams
+- CP4 book 1
+  - skill level required is very on par with this mod and coding style from C++ is sufficiently similar to java. Makes you feel big brain
+  - consider starting early as the early chapters are about miscellaneous programming language-related fundamentals rather than algorithms
+
+# ES2660 B+
+Just don't bother - the effort to reward for this module is trifling especially if you already take UTown mods. Pray you get a heckcare group with you and just smoke all the rubbish you can conjure up ONLY WHEN PROMPTED (if you look too competent I suspect the TA will be more harsh in grading you). I never heard of anyone failing the mod either and my friends who spent half the time I did with very plain standard submissions got an A.
+
+# IS1103 C
+Just do the weekly quiz and interactive segment on time. I suspect they dont care about what you put as the answers in the portal. Secret strat: look through past week answers for trends - for example the Singapore government is rarely if ever unethical and certain ethical categories are flat out never unethical due to "unconsidered stakeholders".
+
+
