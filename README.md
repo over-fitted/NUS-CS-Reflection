@@ -2,15 +2,15 @@
 Awesome list for NUS CS students to read ahead or supplement for specific mods.
 Includes tips that I found useful and my grades to support the accuracy of my advice
 
-## Year 1
+# Year 1
 ## Semester 1
-# Introduction to CS in general
+### Introduction to CS in general
 - Algorithms, Panos Louridas
   - has 0 math in it, uses pseudocode, requires 0 experience to read, covers some basic algorithms till 2040
 - Computer Science Distilled, Wladston Ferreira Filho
   - same as above, covers CS more generally with elements of databases, operating systems and programming language methodology thrown in
 
-# CS1101S, A+
+### CS1101S, A+
 - Head-First JS
   - very beginner-friendly book on JS with tons of pictures and exercises, I even recommend it to Primary School students. Take your time with it, took me a month with Python experience without completing all exercises
 - You don't know JS series, up till scope and closures
@@ -22,7 +22,7 @@ Includes tips that I found useful and my grades to support the accuracy of my ad
   
 Hot take: I highly recommend against reading SICP ahead because I find the JS version to be very confusing to follow and reading this class in advance makes the actual lectures really boring (I actually fell asleep in the first say 4 weeks)
 
-# CS1231s B+
+### CS1231s B+
 - Discrete Mathematics with Application, Susanna S. Epp
   - textbook for discrete mathematics
   - can consider reading ahead because the textbook is really well-written, but ordering is different from lectures. Textbook contains additional exercises not covered in tutorials. I can guarantee you will not bother doing said exercises unless you are well-prepared and somehow ahead of schedule mid-semester
@@ -37,7 +37,7 @@ In general I feel that key points are to do all tutorial questions as far as pos
 
 also, put in effort into all graded assignments and learning probability. I died to complacency because probability was my best math topic in JC but I was too rusty and flunked assignment 2, thus B+
 
-# MA1101R A-
+### MA1101R A-
 - Linear Algebra Concepts and Techniques on Euclidean Space
   - textbook for the module
   - really well-written, I find the lectures to sounds exactly like the textbook
@@ -46,7 +46,7 @@ also, put in effort into all graded assignments and learning probability. I died
 
 I kind of read ahead while doing a Coursera course on Machine Learning by Prof Andrew Ng (highly recommended) which introduced me to eigenvectors and matrices. I feel that the most important factor for doing well is consistent effort, strong willpower and having Math-obssessed friends to teach you difficult questions (thanks Wei En, Chun Wei and a bunch of other people on the linear algebra telegram group, your help was much appreciated). I would recommend watching live lectures back in 4 times speed in addition to the prerecorded webcasts or reading the textbook to access hidden theorems left out of the prerecorded lectures, in addition to asking any questions to the lecturers early. Stupid questions are entertained and surprisingly not as subject to ridicule
 
-# MA1521 B
+### MA1521 B
 Honestly just get on your knees and pray as hard as possible. In case of Coronavirus online open-book tests, remember Wolfram Alpha is your best friend. Open book tests are ridiculously more difficult than closed book. For reference see AY20/21 sem 1 test papers (except midterms that was easy)
 
 ## Sem 2
@@ -54,7 +54,7 @@ Took 28 mcs at first with 2040s, 2030s, IS1103, ES2660, USP writing mod Tourism,
 
 MAKE SURE YOU APPLY FOR INTERNSHIPS EARLY (ESPECIALLY IF YOU HAVE LINKEDIN CONTACTS) AND APPLY FOR CVWO/ORBITAL ON TIME WHERE RELEVANT. HIGHLY RECOMMEND ONLY TAKING INTERNSHIPS IF POSSIBLE - ORBITAL WILL SUCH TIME AWAY FROM INTERNING
 
-# CS2030s A
+### CS2030s A
 - https://java-programming.mooc.fi/
   - just grind through this first, don't think too hard about it just do it. It is ok to forget stuff because you can just google it later
 - Philosophy of Software Design by John Ousterhout
@@ -72,7 +72,7 @@ Do all your recitations before attending so you dont have to spend too much time
 
 For openbook exams consider printing out the entire textbook and all your code off github. Your tuition fees are way higher than the comparatively tiny printing fees, trust me it is worthwhile to do this.
 
-# CS2040s A-
+### CS2040s A-
 Big oof for me, spent too much time on my USP essays and ended up studying just a few days before midterms and one DAY before finals, plus a couple late assignments and latecoming to tutorials. Basically consider coming on time for tutorials and study for your exams. Definitely put in effort into your tutorials before coming to class, budget around 2 hours as the upper bound for assignments and consider googling the answers afterwards - having a reference helps when trying to understand the TA's answers afterwards. Definitely clarify all doubts early and often and bug your TAs about it as this mod is ridiculously important for interviews. 
 
 - Algorithm Design
@@ -84,10 +84,10 @@ Big oof for me, spent too much time on my USP essays and ended up studying just 
   - skill level required is very on par with this mod and coding style from C++ is sufficiently similar to java. Makes you feel big brain
   - consider starting early as the early chapters are about miscellaneous programming language-related fundamentals rather than algorithms
 
-# ES2660 B+
+### ES2660 B+
 Just don't bother - the effort to reward for this module is trifling especially if you already take UTown mods. Pray you get a heckcare group with you and just smoke all the rubbish you can conjure up ONLY WHEN PROMPTED (if you look too competent I suspect the TA will be more harsh in grading you). I never heard of anyone failing the mod either and my friends who spent half the time I did with very plain standard submissions got an A.
 
-# IS1103 C
+### IS1103 C
 Just do the weekly quiz and interactive segment on time. I suspect they dont care about what you put as the answers in the portal. Secret strat: look through past week answers for trends - for example the Singapore government is rarely if ever unethical and certain ethical categories are flat out never unethical due to "unconsidered stakeholders".
 
 
