@@ -90,4 +90,34 @@ Just don't bother - the effort to reward for this module is trifling especially 
 ### IS1103 C
 Just do the weekly quiz and interactive segment on time. I suspect they dont care about what you put as the answers in the portal. Secret strat: look through past week answers for trends - for example the Singapore government is rarely if ever unethical and certain ethical categories are flat out never unethical due to "unconsidered stakeholders".
 
+# Year 2
+## Semester 1
+### CS1101S TAing
+An extremely different experience from doing the mod. Just because you can ace the mod does not mean you can teach it. I easily got away with roughly knowing 80% of the material and handwaving the rest, but obviously that doesn't really fly when teaching others.
 
+TA at your own peril, and definitely take a lighter workload
+
+### Japanese 4
+Honestly I came into the module knowing about 75% of the material from self-study. The issue is that the remaining 25% would be too challenging to make up for to skip to Japanese 5, and I found the non-rigorous nature of my self-studies left quite a number of gaps in my knowledge (for example extended n, conditionals, passive form, kureru vs morau). 
+
+Even with 75% knowledge and barely any time revising material, I still suffered quite a lot in this module with 2 hours of lecture, 4 hours of tutorials and about 1 hour of homework due before each tutorial. I cannot imagine dealing with this workload with 0 experience. It was fun though, teachers were very supportive and it was great being around fellow weebs
+
+### CS3230
+Not as bad as people made it out to be. My friends in USP taking the mod, who acted as my reference point, were all doing double degree with math and CS so naturally I was walking among giants. As a result I possibly set myself up to a standard higher than the average person, which culminated in me being disappointed in my 80% grade when really I was far ahead of the curve. I would say that apart from proofs, the mod is generally easier than CS2040s. After all, it's 2 hours of lecture and 1 hour of tutorial (done inclass) per week with 0 compulsory programming assignments. How much can they really expect you to know? I will say as well, it made me surprisingly interested in the math and rigour aspects of algorithms that I loathed before, and it made me genuinely want to read CLRS.
+
+Highly recommend taking with highly-skilled friends. Look for the plain-looking pencil-thin bespectacled people at the corner of the classroom
+
+## CS2102
+Lectures were surprisingly decent given the negative reputation, project was fun (but painful with very weird and unclear specifications), generally feels much lower pressure than normal especially since they let you run your code before submission which takes a lot of uncertainty out of exams (if only more mods would do this, I hate being penalised for trivial careless mistakes), and databases generally doesnt require deep thinking as much as trial by fire.
+
+Highly recommend taking the mod, but do pick up Chris Date's books as reference material, particularly on Normal Forms as I feel that topic not particularly taught well (the fact that tables that contain null values are not in 1NF was frustratingly left out)
+
+## CS2103
+Get friends to do the group work with. Competent ones with lower expectations in workload but high expectations in quality. We felt like we barely did anything feature-wise (I didn't do any of the optional stuff for IP), but 
+
+## ST2334
+No idea what I'm doing, get friends to help you or perish
+If you are in USP do this mod with QR, but beware that QR material is only covered by ST2334 in the final weeks, AFTER QR's final exams (bruh)
+
+## Environmental Quality
+Concentrate in class when he's going through the material for real (2nd hour of class), and only goof off when he's revising content in the first hour. Feel free to request for consults
